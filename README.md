@@ -5,7 +5,7 @@ how well your CV matches a job description and what
 to fix before you apply.
 
 ## Live Demo
-[Try it here](YOUR_DEPLOY_LINK_HERE)
+(https://hirematch-aii.streamlit.app/)
 
 ## What it does
 - Calculates a match score between your CV and any job description
